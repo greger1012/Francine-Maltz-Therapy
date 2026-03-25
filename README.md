@@ -2,6 +2,10 @@
 
 A professional website for Francine R. Maltz, Child Custody Evaluator, serving Rancho Cucamonga and the Inland Empire.
 
+## Live site
+
+**Open the deployed website:** [https://greger1012.github.io/Francine-Maltz-Therapy/](https://greger1012.github.io/Francine-Maltz-Therapy/)
+
 ## About the Site
 
 This website presents Francine's child custody evaluation services, including:
@@ -11,7 +15,9 @@ This website presents Francine's child custody evaluation services, including:
 
 ## Getting Started
 
-To view the website, open `index.html` in your web browser, or use a local server:
+To view the published site in your browser, use the link above: **[https://greger1012.github.io/Francine-Maltz-Therapy/](https://greger1012.github.io/Francine-Maltz-Therapy/)**.
+
+For local development, open `index.html` or run a local server:
 
 ```bash
 python -m http.server 8080
@@ -19,12 +25,12 @@ python -m http.server 8080
 
 Then visit http://localhost:8080
 
-## Deploy on GitHub Pages
+## GitHub repository & Pages
 
-Repository: [greger1012/Francine-Maltz-Therapy](https://github.com/greger1012/Francine-Maltz-Therapy)
+- **Source code:** [greger1012/Francine-Maltz-Therapy](https://github.com/greger1012/Francine-Maltz-Therapy)
+- **Live site (GitHub Pages):** [https://greger1012.github.io/Francine-Maltz-Therapy/](https://greger1012.github.io/Francine-Maltz-Therapy/)
 
-1. On GitHub: **Settings** → **Pages** → **Build and deployment** → **Source**: **Deploy from a branch** → Branch **main**, folder **/ (root)** → Save.
-2. The site will be at `https://greger1012.github.io/Francine-Maltz-Therapy/` (exact URL is shown on the Pages settings page).
+To verify or change hosting: repo **Settings** → **Pages** → deploy from branch **main**, folder **/ (root)**. The public URL above is shown on that page after Pages is enabled.
 
 ## Files
 
