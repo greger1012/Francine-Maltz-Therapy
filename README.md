@@ -19,21 +19,12 @@ python -m http.server 8080
 
 Then visit http://localhost:8080
 
-## Deploy on GitHub (Pages)
+## Deploy on GitHub Pages
 
-1. Create a new empty repository on [GitHub](https://github.com/new) (for example `francine-maltz-therapy-website`). Do not add a README, `.gitignore`, or license (this project already has them).
+Repository: [greger1012/Francine-Maltz-Therapy](https://github.com/greger1012/Francine-Maltz-Therapy)
 
-2. In this folder, add the remote and push (replace `YOUR_USER` and `YOUR_REPO`):
-
-```bash
-git remote add origin https://github.com/YOUR_USER/YOUR_REPO.git
-git branch -M main
-git push -u origin main
-```
-
-3. Turn on **GitHub Pages**: open the repo on GitHub → **Settings** → **Pages** → **Build and deployment** → **Source**: **Deploy from a branch** → Branch **main**, folder **/ (root)** → Save.
-
-Your site will be available at `https://YOUR_USER.github.io/YOUR_REPO/` (GitHub shows the exact URL on the Pages settings page).
+1. On GitHub: **Settings** → **Pages** → **Build and deployment** → **Source**: **Deploy from a branch** → Branch **main**, folder **/ (root)** → Save.
+2. The site will be at `https://greger1012.github.io/Francine-Maltz-Therapy/` (exact URL is shown on the Pages settings page).
 
 ## Files
 
